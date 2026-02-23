@@ -61,7 +61,7 @@ Primary focus is on:
 - Clean RTL architecture
 - Structural reasoning
 - Scalable design discipline
-- Design Optimization
+- Design Optimization (Power Performance Area)
 
 ---
 
