@@ -9,7 +9,7 @@ It is a continuously evolving design lab — not a single monolithic project.
 
 ## Scope
 
-This repository includes:
+This repository includes :
 
 - Combinational logic designs (e.g., adder)
 - Sequential logic designs (e.g., FIFO, RAM, ROM)
