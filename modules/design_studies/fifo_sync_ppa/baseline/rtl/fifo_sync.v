@@ -14,7 +14,7 @@ module fifo_sync #(
 
     localparam ADDR_WIDTH = $clog2(DEPTH);
 
-    // Memory
+    // Memory 
     reg [DATA_WIDTH-1:0] mem [0:DEPTH-1];
 
     // Pointers
